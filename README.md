@@ -24,3 +24,5 @@ Install required libraries
 ```
 pip install -r requirements.txt
 ```
+
+## Did not add Heroku deployment yet.
