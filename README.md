@@ -25,4 +25,4 @@ Install required libraries
 pip install -r requirements.txt
 ```
 
-## Did not add Heroku deployment yet.
+### Did not add Heroku deployment yet. Can only run locally.
